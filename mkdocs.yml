@@ -1,7 +1,8 @@
-site_name: "cal-itp/mkdocs-template"
-site_url: https://docs.calitp.org/mkdocs-template
-repo_url: https://github.com/cal-itp/mkdocs-template
-edit_uri: edit/main/docs
+site_name: "mkdocs1" # Cambiado 2/9/2025
+site_url: https://github.com/jav-car-1971/mkdocs1 # Cambiado 2/9/2025
+repo_url: https://jav-car-1971.github.io/mkdocs1/ # Cambiado 2/9/2025
+edit_uri: edit/main/docs # Se supone que va a funcionar, pero si tu rama principal se llama diferente.
+# o si la carpeta de tu documentación tiene otro nombre, tenés que ajustarlo.
 
 theme:
   name: material
@@ -23,10 +24,10 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
 
-extra:
-  analytics:
-    provider: google
-    property: G-SZB618VNBZ
+# extra:                               # Elimine comentando todo este bloque por ahora
+#  analytics:                          # Elimine comentando todo este bloque por ahora
+#    provider: google                  # Elimine comentando todo este bloque por ahora
+#    property: G-SZB618VNBZ            # Elimine comentando todo este bloque por ahora
 
 plugins:
   - search
