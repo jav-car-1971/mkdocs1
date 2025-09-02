@@ -1,4 +1,4 @@
-site_name: "mkdocs1" # Cambiado 2/9/2025
+site_name: "mkdocs1" # Cambiado 2/9/2025..
 site_url: https://github.com/jav-car-1971/mkdocs1 # Cambiado 2/9/2025
 repo_url: https://jav-car-1971.github.io/mkdocs1/ # Cambiado 2/9/2025
 edit_uri: edit/main/docs # Se supone que va a funcionar, pero si tu rama principal se llama diferente.
